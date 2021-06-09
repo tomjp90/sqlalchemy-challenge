@@ -8,7 +8,7 @@ In this project, Python and SQLAlchemy were used for climate analysis and data e
 * Pandas
 * Matplotlib
 * ORM Queries
-* Flask API
+* Flask 
 
 
 ## Step 1 - Climate Analysis and Exploration
