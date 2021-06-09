@@ -1,4 +1,4 @@
-# SQLAlchemy - Surfs Up!
+# SQLAlchemy 
 In this project, Python and SQLAlchemy were used for climate analysis and data exploration of a climate database for Hawaii weather. Python connection using SQLAlchemy was made to the SQLite database to reflect the tables for reference. Queries were then questioned of the data and summary statistics were made of of the precipitation data. A Flask API was then made to allow easy modifying of the queries to allow easy visualistation of the resulting data. Further analysis of temperature and precipitation were then analysed in SQLAlchemy/Pandas where Matplotlib was used to visualise the analysis and exploration of the data.
 
 
